@@ -2,89 +2,23 @@
     {
         "id": 1,
         "name": "charls",
-        "age": 22,
+        "age": "22",
         "gender": "M"
     },
     {
         "id": 2,
         "name": "charls",
-        "age": 22,
+        "age": "22",
         "gender": "M"
     },
     {
         "id": 3,
         "name": "charls",
-        "age": 22,
+        "age": "22",
         "gender": "M"
     },
     {
         "id": 4,
-        "name": "charls",
-        "age": 22,
-        "gender": "M"
-    },
-    {
-        "id": 5,
-        "name": "charls",
-        "age": 22,
-        "gender": "M"
-    },
-    {
-        "id": 6,
-        "name": "charls",
-        "age": 22,
-        "gender": "M"
-    },
-    {
-        "id": 7,
-        "name": "charls",
-        "age": 22,
-        "gender": "M"
-    },
-    {
-        "id": 8,
-        "name": "charls",
-        "age": 22,
-        "gender": "M"
-    },
-    {
-        "id": 9,
-        "name": "charls",
-        "age": 22,
-        "gender": "M"
-    },
-    {
-        "id": 10,
-        "name": "charls",
-        "age": 22,
-        "gender": "M"
-    },
-    {
-        "id": 11,
-        "name": "charls",
-        "age": 22,
-        "gender": "M"
-    },
-    {
-        "id": 12,
-        "name": "charls",
-        "age": 22,
-        "gender": "M"
-    },
-    {
-        "id": 13,
-        "name": "charls",
-        "age": "22",
-        "gender": "M"
-    },
-    {
-        "id": 14,
-        "name": "charls",
-        "age": "22",
-        "gender": "M"
-    },
-    {
-        "id": 15,
         "name": "charls",
         "age": "22",
         "gender": "M"
