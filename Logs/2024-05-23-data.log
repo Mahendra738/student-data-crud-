@@ -1,0 +1,47 @@
+2024-05-23 15:28:42,101:INFO:Creating students...
+2024-05-23 15:28:42,102:DEBUG:{'status': 'success', 'id': 15}
+2024-05-23 15:28:42,104:DEBUG:{'status': 'success', 'id': 16}
+2024-05-23 15:28:42,105:INFO:
+Reading students...
+2024-05-23 15:28:42,115:DEBUG:ID: 1, Student: {'id': 1, 'name': 'charls', 'age': 22, 'gender': 'M'}
+2024-05-23 15:28:42,115:DEBUG:ID: 2, Student: {'id': 2, 'name': 'charls', 'age': 22, 'gender': 'M'}
+2024-05-23 15:28:42,115:DEBUG:ID: 3, Student: {'id': 3, 'name': 'charls', 'age': 22, 'gender': 'M'}
+2024-05-23 15:28:42,115:DEBUG:ID: 4, Student: {'id': 4, 'name': 'charls', 'age': 22, 'gender': 'M'}
+2024-05-23 15:28:42,115:DEBUG:ID: 5, Student: {'id': 5, 'name': 'charls', 'age': 22, 'gender': 'M'}
+2024-05-23 15:28:42,115:DEBUG:ID: 6, Student: {'id': 6, 'name': 'charls', 'age': 22, 'gender': 'M'}
+2024-05-23 15:28:42,115:DEBUG:ID: 7, Student: {'id': 7, 'name': 'charls', 'age': 22, 'gender': 'M'}
+2024-05-23 15:28:42,115:DEBUG:ID: 8, Student: {'id': 8, 'name': 'charls', 'age': 22, 'gender': 'M'}
+2024-05-23 15:28:42,115:DEBUG:ID: 9, Student: {'id': 9, 'name': 'charls', 'age': 22, 'gender': 'M'}
+2024-05-23 15:28:42,115:DEBUG:ID: 10, Student: {'id': 10, 'name': 'charls', 'age': 22, 'gender': 'M'}
+2024-05-23 15:28:42,115:DEBUG:ID: 11, Student: {'id': 11, 'name': 'charls', 'age': 22, 'gender': 'M'}
+2024-05-23 15:28:42,115:DEBUG:ID: 12, Student: {'id': 12, 'name': 'charls', 'age': 22, 'gender': 'M'}
+2024-05-23 15:28:42,115:DEBUG:ID: 13, Student: {'id': 13, 'name': 'charls', 'age': '22', 'gender': 'M'}
+2024-05-23 15:28:42,115:DEBUG:ID: 14, Student: {'id': 14, 'name': 'charls', 'age': '22', 'gender': 'M'}
+2024-05-23 15:28:42,115:DEBUG:ID: 15, Student: {'name': 'Alpha', 'age': '24', 'gender': 'M', 'id': 15}
+2024-05-23 15:28:42,115:DEBUG:ID: 16, Student: {'name': 'bella', 'age': '24', 'gender': 'F'}
+2024-05-23 15:28:42,115:INFO:
+Updating a student...
+2024-05-23 15:28:42,126:DEBUG:{'status': 'success'}
+2024-05-23 15:28:42,127:INFO:
+Reading updated student...
+2024-05-23 15:28:42,128:DEBUG:ID: 15, Student: {'id': 15, 'name': 'charls', 'age': '22', 'gender': 'M'}
+2024-05-23 15:28:42,128:INFO:
+Deleting a student...
+2024-05-23 15:28:42,140:DEBUG:{'status': 'success'}
+2024-05-23 15:28:42,140:INFO:
+Reading students after deletion...
+2024-05-23 15:28:42,144:DEBUG:ID: 1, Student: {'id': 1, 'name': 'charls', 'age': 22, 'gender': 'M'}
+2024-05-23 15:28:42,144:DEBUG:ID: 2, Student: {'id': 2, 'name': 'charls', 'age': 22, 'gender': 'M'}
+2024-05-23 15:28:42,144:DEBUG:ID: 3, Student: {'id': 3, 'name': 'charls', 'age': 22, 'gender': 'M'}
+2024-05-23 15:28:42,144:DEBUG:ID: 4, Student: {'id': 4, 'name': 'charls', 'age': 22, 'gender': 'M'}
+2024-05-23 15:28:42,144:DEBUG:ID: 5, Student: {'id': 5, 'name': 'charls', 'age': 22, 'gender': 'M'}
+2024-05-23 15:28:42,144:DEBUG:ID: 6, Student: {'id': 6, 'name': 'charls', 'age': 22, 'gender': 'M'}
+2024-05-23 15:28:42,144:DEBUG:ID: 7, Student: {'id': 7, 'name': 'charls', 'age': 22, 'gender': 'M'}
+2024-05-23 15:28:42,144:DEBUG:ID: 8, Student: {'id': 8, 'name': 'charls', 'age': 22, 'gender': 'M'}
+2024-05-23 15:28:42,144:DEBUG:ID: 9, Student: {'id': 9, 'name': 'charls', 'age': 22, 'gender': 'M'}
+2024-05-23 15:28:42,144:DEBUG:ID: 10, Student: {'id': 10, 'name': 'charls', 'age': 22, 'gender': 'M'}
+2024-05-23 15:28:42,144:DEBUG:ID: 11, Student: {'id': 11, 'name': 'charls', 'age': 22, 'gender': 'M'}
+2024-05-23 15:28:42,144:DEBUG:ID: 12, Student: {'id': 12, 'name': 'charls', 'age': 22, 'gender': 'M'}
+2024-05-23 15:28:42,144:DEBUG:ID: 13, Student: {'id': 13, 'name': 'charls', 'age': '22', 'gender': 'M'}
+2024-05-23 15:28:42,144:DEBUG:ID: 14, Student: {'id': 14, 'name': 'charls', 'age': '22', 'gender': 'M'}
+2024-05-23 15:28:42,144:DEBUG:ID: 15, Student: {'id': 15, 'name': 'charls', 'age': '22', 'gender': 'M'}
